@@ -32,7 +32,6 @@
         <li><a href="#prerequisites"> Prerequisites </a></li>
         <li><a href="#installation"> Installation </a></li>
         <li><a href="#usage"> Usage </a></li>
-        <li><a href="#tests"> Tests </a></li>
       </ul>
     </li>
     <li><a href="#contributing"> Contributing </a></li>
@@ -44,8 +43,8 @@
 <!---- THE PROJECT ---->
 ## About The Project 
 
-<img src="" align="center" alt="Project Home Page">
-A Kafka Producer to create a notification in the Notifications Microservice API, which will be the consumer of the sent notification and save in the database. It is possible to send several notifications, they will be queued to be processed by the consumer.
+<img src="https://user-images.githubusercontent.com/44311634/210824590-e49a1402-a640-4e30-a5b8-257d1fff1ee4.png" align="center" alt="Project Home Page">
+A Kafka Producer to create a notification in the Notifications Microservice API, which will be the consumer of the sent notification and save in the database. It is possible to send several notifications, they will be queued to be processed by the consumer. This script is for testing purposes only. 
 
 
 ### Built With 

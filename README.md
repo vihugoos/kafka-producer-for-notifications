@@ -43,7 +43,7 @@
 <!---- THE PROJECT ---->
 ## About The Project 
 
-<img src="https://user-images.githubusercontent.com/44311634/210824590-e49a1402-a640-4e30-a5b8-257d1fff1ee4.png" align="center" alt="Project Home Page">
+<img src="https://user-images.githubusercontent.com/44311634/210826429-9838a92f-75a4-42b2-b163-c3e6b86247f9.png" align="center" alt="Project Home Page">
 A Kafka Producer to create a notification in the Notifications Microservice API, which will be the consumer of the sent notification and save in the database. It is possible to send several notifications, they will be queued to be processed by the consumer. This script is for testing purposes only. 
 
 
